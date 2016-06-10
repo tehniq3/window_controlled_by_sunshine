@@ -8,7 +8,7 @@ cand este lumina si inchidere cand e noapte
 - vizitati canalul de filmulete: https://www.youtube.com/channel/UCm-OQ7YTHGcRV6sMTY6mHHw
 */
 
-#define lum1pin 7
+#define lum1pin 6
 #define lum11pin 2
 #define lum12pin 3
 #define sus1  4
