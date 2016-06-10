@@ -49,8 +49,8 @@ Serial.println("06.2016 - Craiova, Romania, Europa ;)");
    digitalWrite(lum11pin, HIGH);  // in repaus (fara conact)   
    digitalWrite(lum12pin, HIGH);  // in repaus (fara conact)   
 
-  pinMode(sus1, INPUT);
-  pinMode(jos1, INPUT);
+  pinMode(sus1, OUTPUT);
+  pinMode(jos1, OUTPUT);
    digitalWrite(sus1, LOW);  // in repaus (fara conact)   
    digitalWrite(jos1, LOW);  // in repaus (fara conact)   
 
